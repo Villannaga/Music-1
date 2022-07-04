@@ -1,1 +1,1 @@
-worker: python3 -m hellbot
+web: python3 -m hellbot
